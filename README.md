@@ -1,18 +1,18 @@
 <h1 align="center">
-  <a href="https://safdarjamal.github.io/crud-app/">
+  <a href="https://yhwhn.github.io/crud-app/">
     CRUD App
   </a>
 </h1>
 
 <p align="center">
-  <a href="https://github.com/SafdarJamal/crud-app/actions?query=workflow%3A%22Node.js+CI%22">
-    <img src="https://github.com/SafdarJamal/crud-app/workflows/Node.js%20CI/badge.svg" alt="Node.js CI" />
+  <a href="https://github.com/yhwhn/crud-app/actions?query=workflow%3A%22Node.js+CI%22">
+    <img src="https://github.com/yhwhn/crud-app/workflows/Node.js%20CI/badge.svg" alt="Node.js CI" />
   </a>
-  <a href="https://github.com/SafdarJamal/crud-app/releases">
-    <img src="https://img.shields.io/github/v/release/SafdarJamal/crud-app" alt="GitHub Release (latest by date)" />
+  <a href="https://github.com/yhwhn/crud-app/releases">
+    <img src="https://img.shields.io/github/v/release/yhwhn/crud-app" alt="GitHub Release (latest by date)" />
   </a>
-  <a href="https://github.com/SafdarJamal/crud-app/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/SafdarJamal/crud-app" alt="License" />
+  <a href="https://github.com/yhwhn/crud-app/blob/master/LICENSE">
+    <img src="https://img.shields.io/github/license/yhwhn/crud-app" alt="License" />
   </a>
 </p>
 
@@ -33,7 +33,7 @@
 To get a local copy of the code, clone it using git:
 
 ```
-git clone https://github.com/SafdarJamal/crud-app.git
+git clone https://github.com/yhwhn/crud-app.git
 cd crud-app
 ```
 
@@ -62,8 +62,8 @@ and then you can open http://localhost:3000 to view it in the browser.
 
 ## Credits
 
-CRUD App is built and maintained by [Safdar Jamal](https://safdarjamal.github.io).
+CRUD App is built and maintained by [yhwhn](https://github.com/yhwhn).
 
 ## License
 
-CRUD App is open-source software licensed under the [MIT License](https://github.com/SafdarJamal/crud-app/blob/master/LICENSE).
+CRUD App is open-source software licensed under the [MIT License](https://github.com/yhwhn/crud-app/blob/master/LICENSE).
